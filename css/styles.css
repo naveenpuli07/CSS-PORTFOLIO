@@ -1,0 +1,122 @@
+
+head{
+  margin: 0;
+}
+body{
+color: #40514E;
+  margin: 0;
+  text-align: center;
+ border: 0;
+
+}
+
+.top{
+  padding-top: 100px;
+  border-top:100px;
+}
+
+
+.d1{
+margin-top: 0;
+ background-color: #E59465;
+ height: 1000px;
+margin-bottom: 0;
+position: relative;
+}
+.skille{
+
+height:250px;
+  width: 25%;
+float: left;
+margin: auto 100px auto 350px;
+padding-right: 0;
+
+
+  }
+  .skill-row{
+  margin-bottom: 200px;
+    padding: 0;
+text-align: left;
+  }
+.naveen{
+  margin-top: 100px;
+}
+.intro{
+  width: 50%;
+  margin-left: 400px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  bottom: 800px;
+left:200px;
+}
+.topcloud{
+  position: absolute;
+  left: 1200px;
+
+}
+.mountain{
+  position: absolute;
+  top: 200px;
+  right: 500px;
+}
+.hr{
+  margin: 100px 100px 100px 100px;
+}
+.contact-me{
+  text-align: center;
+}
+.description{
+  margin-top: 100px;
+  margin-left: 450px;
+  width: 40%;
+  text-align: center;
+  clear: left;
+}
+hr{
+  border:dotted;
+  border-bottom: none;
+  width: 4%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.btn {
+  border:100px;
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cd4fa;
+  background-image: -webkit-linear-gradient(top, #3cd4fa, #3498db);
+  background-image: -moz-linear-gradient(top, #3cd4fa, #3498db);
+  background-image: -ms-linear-gradient(top, #3cd4fa, #3498db);
+  background-image: -o-linear-gradient(top, #3cd4fa, #3498db);
+  background-image: linear-gradient(to bottom, #3cd4fa, #3498db);
+  text-decoration: none;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 10px 0 10px 0;
+  margin: 50px auto auto auto;
+
+}
+.footer-link{
+    text-decoration:none;
+}
+.footer-link:hover{
+  color: #EAF6F6;
+}
